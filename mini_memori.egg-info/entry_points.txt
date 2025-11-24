@@ -1,0 +1,2 @@
+[console_scripts]
+mini-memori-chat = mini_memori.chatbot:main
