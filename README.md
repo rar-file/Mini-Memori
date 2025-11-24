@@ -218,8 +218,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Contact
 
-Project Link: [https://github.com/yourusername/mini-memori](https://github.com/yourusername/mini-memori)
+Project Link: [https://github.com/rar-file/mini-memori](https://github.com/yourusername/mini-memori)
 
 ---
 
 Built with ❤️ for the AI community
+
